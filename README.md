@@ -1,5 +1,5 @@
 <img align="left" src="https://github-readme-stats-jwattik.vercel.app/api?username=jwattik&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&range=is_up_to_date" />
-<br/>
+
 <img align="left" src="https://github-readme-stats-jwattik.vercel.app/api/top-langs/?username=jwattik&show_icons=true&hide_border=true&theme=dark&langs_count=8&layout=compact" />
 
 <img align="left" src="https://github-readme-stats-jwattik.vercel.app/api/wakatime?username=jwattik&theme=dark&hide_border=true">
