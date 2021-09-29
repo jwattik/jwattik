@@ -2,7 +2,7 @@
 
 <img align="left" src="https://github-readme-stats-jwattik.vercel.app/api?username=jwattik&show_icons=true&hide_border=true&theme=dark&count_private=true" />
 <br/>
-<img align="left" src="https://github-readme-stats-jwattik.vercel.app/api?username=jwattik&&langs_count=8">
+<img align="left" src="https://github-readme-stats-jwattik.vercel.app/api?username=jwattik&langs_count=8">
 
 <!--
 **jwattik/jwattik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
