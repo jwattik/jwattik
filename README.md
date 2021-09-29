@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img align="left" src="https://github-readme-stats-jwattik.vercel.app/api?username=jwattik&show_icons=true&hide_border=true&theme=dark&count_private=true&langs_count=8" />
 
 <!--
