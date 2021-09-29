@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="left" src="https://github-readme-stats-jwattik.vercel.app/api?username=jwattik&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats-jwattik.vercel.app/api?username=jwattik&show_icons=true&hide_border=true&theme=dark" />
 
 <!--
 **jwattik/jwattik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
