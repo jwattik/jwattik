@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  
-  <img align="left" src="https://github-readme-stats-jwattik.vercel.app/api?username=jwattik&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" src="https://github-readme-stats-jwattik.vercel.app/api?username=jwattik&show_icons=true&hide_border=true" />
 
 <!--
 **jwattik/jwattik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
