@@ -4,7 +4,7 @@
 <img align="left" src="https://github-readme-stats-jwattik.vercel.app/api/top-langs/?username=jwattik&show_icons=true&hide_border=true&theme=dark&langs_count=8&layout=compact" />
 -->
 
-<img align="left" src="https://github-readme-stats-jwattik.vercel.app/api/wakatime?theme=dark&hide_border=true&api_domain=3300ea08-eb79-4435-bbb3-e6b86788dc93">
+<img align="left" src="https://github-readme-stats-jwattik.vercel.app/api/wakatime?username=jwattik&theme=dark&hide_border=true">
 
 <!--
 **jwattik/jwattik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
